@@ -1,0 +1,13 @@
+* {
+   background-image: url(/imydzysz/spejs.jpg);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
+a {
+    text-decoration: none;
+}
