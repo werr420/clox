@@ -1,0 +1,12 @@
+* {
+   background-image: url("https://www.black-holes.eu/resources/banner.jpg");
+}
+div {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
+a {
+    text-decoration: none;
+}
